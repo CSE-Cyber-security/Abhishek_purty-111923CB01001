@@ -1,1 +1,0 @@
-"""Cybersecurity Asset Inventory System."""
